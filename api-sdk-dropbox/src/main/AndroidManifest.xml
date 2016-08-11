@@ -28,7 +28,7 @@
             android:launchMode="singleTask">
             <intent-filter>
                 <!-- Insert your app key after “db-  ...” -->
-                <data android:scheme="db-7zingb5x7frtrzy" />
+                <data android:scheme="db-7zy........." />
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.BROWSABLE" />
                 <category android:name="android.intent.category.DEFAULT" />

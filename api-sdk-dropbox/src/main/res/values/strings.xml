@@ -1,15 +1,5 @@
 <resources>
     <string name="app_name">Dropbox</string>
-
-
     <!-- Change this to your app key -->
-    <string name="APP_KEY">7zingb5x7frtrzy</string>
-
-    <!-- Strings related to login -->
-    <string name="sign_in">Sign in</string>
-    <string name="title_activity_login">Sign in</string>
-    <string name="title_activity_activity_sample">ActivitySample</string>
-
-
-    <string name="title_activity_files">Files</string>
+    <string name="APP_KEY">7zy.......</string>
 </resources>
